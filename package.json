@@ -1,0 +1,17 @@
+{
+  "name": "sb3-validate-images",
+  "version": "1.0.0",
+  "description": "sb3 validate images",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Oscar Lazaro",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^2.3.2",
+    "json2csv": "^5.0.0",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
